@@ -35,4 +35,11 @@ section {
 .nav-link {
   font-weight: bold;
 }
-
+@media (max-width: 576px) {
+    h1 {
+        font-size: 24px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+}
